@@ -19,3 +19,6 @@ Automate taking localized screenshots of your iOS app on every device.
 ### [SimulatorStatusMagic](https://github.com/shinydevelopment/SimulatorStatusMagic)
 Clean up your status bar for taking screenshots on the iOS simulator.
 
+### [TinyPNG](https://tinypng.com/)
+Compress PNG images while preserving transparency
+
