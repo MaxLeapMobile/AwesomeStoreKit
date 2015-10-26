@@ -22,3 +22,6 @@ Clean up your status bar for taking screenshots on the iOS simulator.
 ### [TinyPNG](https://tinypng.com/)
 Compress PNG images while preserving transparency
 
+### [Google Play Sketch](https://dribbble.com/shots/1711557-Google-Play-Screenshots-Feature-Graphic-and-More)
+Google Play Screenshots, Feature Graphic and More
+
